@@ -22,7 +22,7 @@ Como funciona:
 
 Cada caracter é transmitido com um ponto "." ou traço "-". As palavras são separadas por um espaço em branco. Exemplo:
 
-""-.-. --- -.. .. --. --- / -- --- .-. ... . / -.. . / . -..- . -- .--. .-.. -—" é traduzido para:
+""-.-. --- -.. .. --. --- / -- --- .-. ... . / -.. . / . -..- . -- .--. .-.. ---" é traduzido para:
 
 "Codigo Morse de exemplo"
 
