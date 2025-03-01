@@ -1,4 +1,3 @@
-# Tradutor-Codigo-Morse
 # Transdutor: Tradutor de Código Morse
 
 # Introdução: O telégrafo
